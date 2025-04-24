@@ -1,0 +1,13 @@
+{
+    "only_external": true,
+    "low_pass_size": 20,
+    "high_pass_thresh": 40,
+    "filter_value": 0,
+    "imagePath": "C:\\Users\\mk12878\\Desktop\\1.bmp",
+    "outputPath": "C:\\Users\\mk12878\\Desktop\\test.svg",
+    "x": 0,
+    "y": 0,
+    "x2": 3610,
+    "y2": 3610,
+    "HighRselutionImage":false
+}
